@@ -1,0 +1,11 @@
+print("heiio m.6/14")
+print("Ithiphut Suwaros")
+print("24 December 2004")
+print("I like running")
+print("I have a brother and sister")
+print("I like to play soccer ")
+print("I am alien")
+print("I am 17 years old")
+print("I like to drink alcohol")
+print("Jub is my girlfriend")
+#ชื่อพศิกา มุลศรี เลขที่39 ม.6/14
